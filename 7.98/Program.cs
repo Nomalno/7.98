@@ -14,11 +14,11 @@
         Console.WriteLine("Сумма чисел в массиве={0}", x.ToString("F1"));
     if (p <x)
     {
-        Console.WriteLine("Утверждрение верно");
+        Console.WriteLine("В данном случае утверждрение верно");
     }
     else
     {
-        Console.WriteLine("Утверждение не верно");
+        Console.WriteLine("В данном случае утверждение не верно");
     }
     Console.WriteLine(x.ToString("F1"));
 }
